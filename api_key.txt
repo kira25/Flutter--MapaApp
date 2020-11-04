@@ -1,0 +1,5 @@
+Google Maps Android : AIzaSyAK2cuVNQH-q5h4bo6WUlyH-45LTSMrSR4
+
+//Para configurar el maps en iOS: deben colocar el bundle identifier en la ruta abriendo el XCODE
+
+
